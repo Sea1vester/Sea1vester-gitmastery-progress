@@ -208,5 +208,14 @@
       "\"first-pilot\" should be a lightweight tag, not an annotated tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786960108.088735,
+    "completed_at": 1786960111.713091,
+    "comments": [
+      "\"first-pilot\" should be a lightweight tag, not an annotated tag."
+    ],
+    "status": "Incomplete"
   }
 ]
