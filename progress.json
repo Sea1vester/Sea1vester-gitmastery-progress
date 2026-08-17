@@ -199,5 +199,14 @@
       "\"first-pilot\" should point to the first commit."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786960081.435438,
+    "completed_at": 1786960084.749406,
+    "comments": [
+      "\"first-pilot\" should be a lightweight tag, not an annotated tag."
+    ],
+    "status": "Incomplete"
   }
 ]
